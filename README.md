@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Nikhil Yadav!<br>🎓 First-year student at MNNIT<br>💻 Programming Languages: Python, C++, C, HTML, CSS<br>🔮 Excited About Emerging Tech: AI & Blockchain<br>💡 What Drives Me: The desire to create something cool and solve problems
+# 💫 Hii 👋  I'm Nikhil Yadav
+🎓 First-year student at MNNIT<br>💻 Programming Languages: Python, C++, C, HTML, CSS<br>🔮 Excited About Emerging Tech: AI & Blockchain<br>💡 What Drives Me: The desire to create something cool and solve problems
 
 
 ## 🌐 Socials:
