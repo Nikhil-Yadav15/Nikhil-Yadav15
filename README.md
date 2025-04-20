@@ -67,7 +67,7 @@
 
 # 🔝 Top Contributed Repositories
 
-## Nikhil Yadav's Project Portfolio
+## Project Portfolio
 
 | Project | Description |
 |---------|-------------|
