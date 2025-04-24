@@ -15,7 +15,7 @@ jobs:
           github_user_name: Nikhil-Yadav15
           outputs: |
             output/snake.svg
-            output/dark-snake.svg?theme=dark
+            output/dark-snake.svg?theme=dark&palette=github-dark
             output/github-contribution-grid-snake.gif
       - name: Commit and push changes
         run: |
