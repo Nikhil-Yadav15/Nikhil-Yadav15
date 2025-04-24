@@ -1,4 +1,8 @@
 # 💫 Hii 👋  I'm Nikhil Yadav
+
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+
 🎓 First-year student at MNNIT<br>🏆 1st Position in Turing Playground (won among all first-year participants, hosted by college coding club)<br>🔮 Excited About Emerging Tech: AI & Blockchain<br>💡 What Drives Me: The desire to create something cool and solve problems
 
 
@@ -71,11 +75,11 @@
 
 | Project | Description |
 |---------|-------------|
-| **⭐ [ShareVault](https://github.com/Nikhil-Yadav15/ShareVault)** | Effortless File transfer Website (Next.js + Cloudinary) |
-| **⭐ [SkySprint](https://github.com/Nikhil-Yadav15/SkySprint)** | Fun Game made using Unity (C#) |
-| **⭐ [CaptchaCracker](https://github.com/Nikhil-Yadav15/CaptchaCracker)** | DeepLearning to extract alphanumeric characters in given captcha (96% accuracy) |
-| **⭐ [Zesting](https://github.com/Nikhil-Yadav15/Zesting)** | Online Based chatting app (Real-time messaging) |
-| **⭐ [FaceRecognition](https://github.com/Nikhil-Yadav15/FaceRecognition)** | DeepLearning Based model to recognise particular face (Python + Tensorflow + OpenCV) |
+| **📁 [ShareVault](https://github.com/Nikhil-Yadav15/ShareVault)** | Effortless File transfer Website (Next.js + Cloudinary) |
+| **🎮 [SkySprint](https://github.com/Nikhil-Yadav15/SkySprint)** | Fun Game made using Unity (C#) |
+| **🔐 [CaptchaCracker](https://github.com/Nikhil-Yadav15/CaptchaCracker)** | DeepLearning to extract alphanumeric characters in given captcha (96% accuracy) |
+| **💬 [Zesting](https://github.com/Nikhil-Yadav15/Zesting)** | Online Based chatting app (Real-time messaging) |
+| **👤 [FaceRecognition](https://github.com/Nikhil-Yadav15/FaceRecognition)** | DeepLearning Based model to recognise particular face (Python + Tensorflow + OpenCV) |
 
 [![Explore All Projects](https://img.shields.io/badge/🚀_Explore_All_Repos-8A2BE2?style=for-the-badge)](https://github.com/Nikhil-Yadav15?tab=repositories)
 
