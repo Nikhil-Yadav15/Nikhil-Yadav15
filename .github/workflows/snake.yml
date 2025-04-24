@@ -1,13 +1,15 @@
 name: Generate Snake Game
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' 
+  workflow_dispatch: 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: Platane/snk@v3
         with:
           github_user_name: Nikhil-Yadav15
@@ -15,10 +17,12 @@ jobs:
             output/snake.svg
             output/dark-snake.svg?theme=dark
             output/github-contribution-grid-snake.gif
-      - name: Push to repository
+      - name: Commit and push changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/*
-          git commit -m "Update snake game animation"
+          git commit -m "Update snake game animation" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
