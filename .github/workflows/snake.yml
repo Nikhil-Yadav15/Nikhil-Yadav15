@@ -14,9 +14,9 @@ jobs:
         with:
           github_user_name: Nikhil-Yadav15
           outputs: |
-            output/snake.svg
-            output/dark-snake.svg?theme=dark&palette=github-dark
-            output/github-contribution-grid-snake.gif
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
+            output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
