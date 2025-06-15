@@ -7,8 +7,9 @@
 
 
 # 🌐 Socials:
-<a href="https://instagram.com/nikhyadav2605"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" width="120" height = "40"></a> <a href="https://linkedin.com/in/nikhil-yadav-593a98321"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" width="120"></a>
 
+<a href="https://instagram.com/nikhyadav2605"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="150"></a>
+<a href="https://linkedin.com/in/nikhil-yadav-593a98321"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150"></a>
 # 🛠️ Tech Stack
 
   ## 🌐 Web Development
