@@ -1,15 +1,24 @@
-# 💫 Hii 👋  I'm Nikhil Yadav
-
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600" height="400">
 
 
-🎓 First-year student at MNNIT<br>🏆 1st Position in Turing Playground (won among all first-year participants, hosted by college coding club)<br>🔮 Excited About Emerging Tech: AI & Blockchain<br>💡 What Drives Me: The desire to create something cool and solve problems
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NIKHIL%20YADAV&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=From%20AI%20to%20APIs%20-%20I%20Build%2C%20Automate%2C%20and%20Innovate&descAlign=50&descAlignY=51" alt="header"/>
+</p>
+<span>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" height="400" />
+<img  src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="500" height="400"/>
+</span>
 
+🎓 First-year student at MNNIT<br>🔮 Excited About Emerging Tech: AI & Blockchain<br>💡 What Drives Me: The desire to create something cool and solve problems
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 # 🌐 Socials:
 
 <a href="https://instagram.com/nikhyadav2605"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="150"></a>
 <a href="https://linkedin.com/in/nikhil-yadav-593a98321"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150"></a>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 # 🛠️ Tech Stack
 
   ## 🌐 Web Development
@@ -53,6 +62,8 @@
   ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
   ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Nikhil-Yadav15&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Yadav15&theme=aura&hide_border=false)<br/>
@@ -60,13 +71,15 @@
 
 ![](https://raw.githubusercontent.com/Nikhil-Yadav15/Nikhil-Yadav15/refs/heads/main/output/github-snake-dark.svg)
 
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nikhil-Yadav15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 # 🔝 Top Contributed Repositories
 
