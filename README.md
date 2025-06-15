@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NIKHIL%20YADAV&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=From%20AI%20to%20APIs%20-%20I%20Build%2C%20Automate%2C%20and%20Innovate&descAlign=50&descAlignY=51" alt="header"/>
 </p>
 <span>
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" height="400" />
-<img  src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="500" height="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="450" height="400" />
+<img  src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="450" height="400"/>
 </span>
 
 🎓 First-year student at MNNIT<br>🔮 Excited About Emerging Tech: AI & Blockchain<br>💡 What Drives Me: The desire to create something cool and solve problems
