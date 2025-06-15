@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="45%" height="400" />
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="45%" height="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="49%" height="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="49%" height="400"/>
 </p>
 
 🎓 First-year student at MNNIT<br>🔮 Excited About Emerging Tech: AI & Blockchain<br>💡 What Drives Me: The desire to create something cool and solve problems
