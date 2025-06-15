@@ -1,6 +1,6 @@
 # 💫 Hii 👋  I'm Nikhil Yadav
 
-<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600" height="400">
 
 
 🎓 First-year student at MNNIT<br>🏆 1st Position in Turing Playground (won among all first-year participants, hosted by college coding club)<br>🔮 Excited About Emerging Tech: AI & Blockchain<br>💡 What Drives Me: The desire to create something cool and solve problems
