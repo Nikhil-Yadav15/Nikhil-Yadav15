@@ -88,6 +88,7 @@
 
 | Project | Description |
 |---------|-------------|
+| **📁 [StorageCube](https://github.com/Nikhil-Yadav15/StorageCube)** | It is a modern, full-stack cloud storage web app that offers secure file management, OTP-based user authentication, and smart storage analytics with integrated Stripe payments—all wrapped in a sleek, responsive UI. |
 | **📁 [ShareVault](https://github.com/Nikhil-Yadav15/ShareVault)** | Effortless File transfer Website (Next.js + Cloudinary) |
 | **🎮 [SkySprint](https://github.com/Nikhil-Yadav15/SkySprint)** | Fun Game made using Unity (C#) |
 | **🔐 [CaptchaCracker](https://github.com/Nikhil-Yadav15/CaptchaCracker)** | DeepLearning to extract alphanumeric characters in given captcha (96% accuracy) |
