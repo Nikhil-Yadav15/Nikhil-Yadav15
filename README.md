@@ -22,46 +22,60 @@
 
 # 🛠️ Tech Stack
 
-  ## 🌐 Web Development
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233776BB.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
-  
-  ## 🗃️ Databases
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  
-  ## 🤖 Machine Learning/AI
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-  
-  ## 🎮 Game Development
-  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  
-  ## 💻 Programming Languages
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-  
-  
-  ## 🛠️ Tools & Platforms
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![GitHub Workflow](https://img.shields.io/badge/GitHub%20Workflow-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-  ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+## 🧱 Web Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" title="Vite" width="48" height="48" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" title="Vercel" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Cloudinary-1735FF?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" title="Cloudinary" style="margin:6px;" />
+</p>
+
+## 🐍 Python Ecosystem & Data Science
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" alt="Matplotlib" title="Matplotlib" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="48" height="48" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" title="Keras" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" title="FastAPI" style="margin:6px;" />
+</p>
+
+## 🧠 AI / LLM Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" title="LangChain" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logoColor=white" alt="LangGraph" title="LangGraph" style="margin:6px;" />
+</p>
+
+## 🧩 Backend / Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="48" height="48" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" title="Mongoose" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" title="Supabase" style="margin:6px;" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" title="Docker" style="margin:6px;" />
+</p>
+
+## 🎮 Game Development
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="48" height="48" style="margin:6px;" />
+</p>
+
+## 🔧 Dev Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" style="margin:6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="48" height="48" style="margin:6px;" />
+</p>
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -82,21 +96,51 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-# 🔝 Top Contributed Repositories
+<!--
+# 🔝 Top Contributed Repositories  
 
-## Project Portfolio
+## 🚀 Project Portfolio  
 
-| Project | Description |
-|---------|-------------|
-| **📁 [StorageCube](https://github.com/Nikhil-Yadav15/StorageCube)** | It is a modern, full-stack cloud storage web app that offers secure file management, OTP-based user authentication, and smart storage analytics with integrated Stripe payments—all wrapped in a sleek, responsive UI. |
-| **📁 [ShareVault](https://github.com/Nikhil-Yadav15/ShareVault)** | Effortless File transfer Website (Next.js + Cloudinary) |
-| **🎮 [SkySprint](https://github.com/Nikhil-Yadav15/SkySprint)** | Fun Game made using Unity (C#) |
-| **🔐 [CaptchaCracker](https://github.com/Nikhil-Yadav15/CaptchaCracker)** | DeepLearning to extract alphanumeric characters in given captcha (96% accuracy) |
-| **💬 [Zesting](https://github.com/Nikhil-Yadav15/Zesting)** | Online Based chatting app (Real-time messaging) |
-| **👤 [FaceRecognition](https://github.com/Nikhil-Yadav15/FaceRecognition)** | DeepLearning Based model to recognise particular face (Python + Tensorflow + OpenCV) |
+<p align="center">
+  <a href="https://github.com/Nikhil-Yadav15/StorageCube">
+    <img src="https://img.shields.io/badge/📁_StorageCube-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="StorageCube"/>
+  </a>
+  <a href="https://github.com/Nikhil-Yadav15/ShareVault">
+    <img src="https://img.shields.io/badge/📁_ShareVault-8A2BE2?style=for-the-badge&logo=next.js&logoColor=white" alt="ShareVault"/>
+  </a>
+  <a href="https://github.com/Nikhil-Yadav15/SkySprint">
+    <img src="https://img.shields.io/badge/🎮_SkySprint-32CD32?style=for-the-badge&logo=unity&logoColor=white" alt="SkySprint"/>
+  </a>
+  <a href="https://github.com/Nikhil-Yadav15/CaptchaCracker">
+    <img src="https://img.shields.io/badge/🔐_CaptchaCracker-FF4500?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CaptchaCracker"/>
+  </a>
+  <a href="https://github.com/Nikhil-Yadav15/Zesting">
+    <img src="https://img.shields.io/badge/💬_Zesting-20B2AA?style=for-the-badge&logo=webrtc&logoColor=white" alt="Zesting"/>
+  </a>
+  <a href="https://github.com/Nikhil-Yadav15/FaceRecognition">
+    <img src="https://img.shields.io/badge/👤_FaceRecognition-FFD700?style=for-the-badge&logo=opencv&logoColor=black" alt="FaceRecognition"/>
+  </a>
+</p>
 
-[![Explore All Projects](https://img.shields.io/badge/🚀_Explore_All_Repos-8A2BE2?style=for-the-badge)](https://github.com/Nikhil-Yadav15?tab=repositories)
+---
 
+### 📌 Project Highlights  
+
+- **📁 [StorageCube](https://github.com/Nikhil-Yadav15/StorageCube)** → Full-stack cloud storage with OTP authentication, smart analytics, and Stripe payments.  
+- **📁 [ShareVault](https://github.com/Nikhil-Yadav15/ShareVault)** → Effortless file transfer (Next.js + Cloudinary).  
+- **🎮 [SkySprint](https://github.com/Nikhil-Yadav15/SkySprint)** → Fun arcade-style Unity game in C#.  
+- **🔐 [CaptchaCracker](https://github.com/Nikhil-Yadav15/CaptchaCracker)** → Deep learning model achieving 96% accuracy on captcha cracking.  
+- **💬 [Zesting](https://github.com/Nikhil-Yadav15/Zesting)** → Real-time chat app with smooth user experience.  
+- **👤 [FaceRecognition](https://github.com/Nikhil-Yadav15/FaceRecognition)** → Face recognition system using TensorFlow + OpenCV.  
+
+---
+
+<p align="center">
+  <a href="https://github.com/Nikhil-Yadav15?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀_Explore_All_Repos-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repos"/>
+  </a>
+</p>
+-->
 
 
 
