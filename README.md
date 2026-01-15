@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="49%" height="400"/>
 </p>
 
-🎓 First-year student at MNNIT<br>🔮 Excited About Emerging Tech: AI & Blockchain<br>💡 What Drives Me: The desire to create something cool and solve problems
+🎓 Second-year student at MNNIT<br>🔮 Excited About Emerging Tech: AI & Blockchain<br>💡 What Drives Me: The desire to create something cool and solve problems
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
