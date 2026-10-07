@@ -122,7 +122,35 @@ Security testing gets skipped because wiring it into CI requires a specialist. *
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-### [`NextStep`](https://github.com/Nikhil-Yadav15/NextStep) — AI Career & Interview Copilot
+### [`EdgeCraft`](https://github.com/Nikhil-Yadav15/ElevendevHub) — Automated Edge PaaS & CI/CD Deployment Platform
+
+<a href="https://github.com/Nikhil-Yadav15/ElevendevHub" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" height="26" alt="GitHub Repo"/></a>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/nextjs.svg" height="26" alt="Next.js" title="Next.js 16 (App Router)"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/cloudflare.svg" height="26" alt="Cloudflare" title="Cloudflare Pages & D1"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/github-actions.svg" height="26" alt="GitHub Actions" title="Automated CI/CD Workflows"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/deepseek.svg" height="26" alt="DeepSeek" title="AI Build Failure Diagnostics"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/typescript.svg" height="26" alt="TypeScript" title="TypeScript"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/tailwind.svg" height="26" alt="Tailwind" title="Tailwind CSS 4"/>
+
+Specialized Platform-as-a-Service (PaaS) portal that automates deploying full-stack web applications to Cloudflare Pages via zero-config GitHub Actions orchestration and automated secret provisioning.
+
+- **Automated CI/CD & Secret Injection**: Programmatically generates Libsodium/TweetNaCl sealed boxes to push encrypted credentials and auto-commits `.github/workflows` to target branches
+- **AI Build Diagnostic Engine**: Feeds raw terminal logs to **DeepSeek reasoning models** via OpenRouter upon build failures to output categorized root causes, error classifications, and resolution commands
+- **Edge-First Serverless Architecture**: Runs on Next.js 16 via `@opennextjs/cloudflare` on Cloudflare Workers, backed by distributed **Cloudflare D1** SQLite and **Drizzle ORM**
+- **Instant Rollbacks & GraphQL Caching**: Promotes immutable deployment snapshots with zero rebuild downtime; fetches repositories via batched GitHub GraphQL with TTL caching in D1
+- **Team Management & Starter Launcher**: 3-tier RBAC (`owner`, `maintainer`, `viewer`), project scaffolding, and live deployment log streaming
+
+`Cloudflare Pages` `Next.js 16` `Cloudflare D1` `Drizzle ORM` `DeepSeek` `TweetNaCl` `GitHub GraphQL` `Wrangler`
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+### [`NextStep`](https://github.com/Nikhil-Yadav15/NextStep) — End-to-End AI Career & Multimodal Interview Copilot
 
 <a href="https://github.com/Nikhil-Yadav15/NextStep" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" height="26" alt="GitHub Repo"/></a>
 &nbsp;&nbsp;
@@ -140,31 +168,14 @@ Security testing gets skipped because wiring it into CI requires a specialist. *
 &nbsp;
 <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/fastapi.svg" height="26" alt="FastAPI" title="FastAPI"/>
 
-Full career prep suite — not another single-purpose chatbot. Built on a **multi-agent, RAG-based architecture** with **Qdrant** semantic search, so every recommendation is grounded in real context.
+End-to-end career intelligence platform integrating skill gap analysis, multimodal interview simulations, ATS resume synthesis, and live job tracking into a continuous preparation pipeline.
 
-- **CNN + YOLO** vision pipeline analyses confidence and body language live during mock interviews
-- **LangGraph** agents drive roadmap generation, skill-gap analysis, and adaptive test creation
-- **RAG** over **Qdrant** for personalised resource recommendations
-- Polyglot persistence — **MongoDB · Qdrant · Redis** — each used for what it's actually good at
-- WebSocket streaming + Redis caching for sub-second AI response delivery
+- **Multimodal Mock Interviews**: Voice-to-voice Q&A via **Deepgram STT & Aura-2 TTS**; real-time body language tracking via **TensorFlow CNN**, vocal tone via **RoBERTa + VADER**, and answer grading via **Gemini**
+- **Cross-Session Memory**: **Gemini Embeddings + Qdrant** retain user-specific failure modes and past weak areas to dynamically adapt upcoming interview questions
+- **Agentic Career Roadmaps**: **LangGraph** agents analyze profile gaps and curate live learning resources using **Tavily** web search
+- **Resume & Job Telemetry**: **LLaMA 3.3 70B** (via OpenRouter) powers ATS-optimized resume drafting; **SerpAPI** streams real-time job listings and market trends
 
-`Python` `Next.js` `TensorFlow` `OpenCV` `LangGraph` `Qdrant` `Redis` `MongoDB` `PostgreSQL` `FastAPI`
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-### [`DevBoard`](https://github.com/Nikhil-Yadav15/ElevendevHub) — Collaborative Developer Hub
-
-<a href="https://github.com/Nikhil-Yadav15/ElevendevHub" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" height="26" alt="GitHub Repo"/></a>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/react.svg" height="26" alt="React" title="React"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/nodejs.svg" height="26" alt="Node.js" title="Node.js"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/mongodb.svg" height="26" alt="MongoDB" title="MongoDB"/>
-
-A shared workspace for developers — projects, resources, and tooling in one place. Real-time collaboration, role-based auth, and a clean developer-first UI.
-
-`Full-Stack` `Real-Time` `Auth` `Team Collaboration`
+`LangGraph` `Gemini` `LLaMA 3.3 70B` `Qdrant` `Deepgram` `TensorFlow` `FastAPI` `Next.js` `Redis`
 
 <img src="assets/divider.svg" alt="" width="100%">
 
