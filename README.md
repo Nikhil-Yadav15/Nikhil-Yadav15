@@ -8,11 +8,13 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/nikhil-yadav-593a98321"><img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/></a>
-&nbsp;
-<a href="https://instagram.com/nikhyadav2605"><img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram"/></a>
-&nbsp;
-<a href="mailto:nikhil@example.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="28" alt="Email"/></a>
+<a href="https://linkedin.com/in/nikhil-yadav-593a98321" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" height="32" alt="LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/nikhyadav2605" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" height="32" alt="Instagram"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Nikhil-Yadav15" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" height="32" alt="GitHub"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:nikhil@example.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="28" alt="Email"/></a>
 
 <br/>
 
@@ -75,11 +77,11 @@ My work spans **multi-agent RAG pipelines, computer vision, DevSecOps automation
 [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
 <br/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-F05A28?style=flat&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C1C1C?style=flat&logo=langchain&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
-![RAG](https://img.shields.io/badge/Agentic_RAG-6EE7B7?style=flat&logoColor=black)
-![CNN+YOLO](https://img.shields.io/badge/CNN_%2B_YOLO-0e75b6?style=flat&logo=opencv&logoColor=white)
+![RAG | Multi-Agent](https://img.shields.io/badge/RAG-Multi--Agent-7ae8b3?labelColor=424242&style=flat)
+![CNN + YOLO | Computer Vision](https://img.shields.io/badge/CNN_%2B_YOLO-Computer_Vision-3178c6?labelColor=424242&style=flat)
 
 **DevOps & Tools**
 
@@ -99,12 +101,15 @@ My work spans **multi-agent RAG pipelines, computer vision, DevSecOps automation
 
 ### [`VulnCraft`](https://github.com/Nikhil-Yadav15/VulnCraft) — No-Code DevSecOps Pipeline Builder
 
-<a href="https://github.com/Nikhil-Yadav15/VulnCraft"><img src="https://skillicons.dev/icons?i=github" height="28"/></a>
+<a href="https://github.com/Nikhil-Yadav15/VulnCraft" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/github.svg" height="26" alt="GitHub Repo"/></a>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/docker.svg" height="26" alt="Docker" title="Docker"/>
 &nbsp;
-![DevSecOps](https://img.shields.io/badge/DevSecOps-DC244C?style=flat&logo=owasp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![React Flow](https://img.shields.io/badge/React_Flow-61DAFB?style=flat&logo=react&logoColor=black)
-![GitHub Apps](https://img.shields.io/badge/GitHub_Apps-181717?style=flat&logo=github&logoColor=white)
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/react.svg" height="26" alt="React" title="React Flow"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/nodejs.svg" height="26" alt="Node.js" title="Node.js"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/github-actions.svg" height="26" alt="CI/CD" title="CI/CD Automation"/>
 
 Security testing gets skipped because wiring it into CI requires a specialist. **VulnCraft** removes that barrier — drag, drop, and connect security tools into a pipeline. A GitHub App runs it on every PR automatically.
 
@@ -119,12 +124,21 @@ Security testing gets skipped because wiring it into CI requires a specialist. *
 
 ### [`NextStep`](https://github.com/Nikhil-Yadav15/NextStep) — AI Career & Interview Copilot
 
-<a href="https://github.com/Nikhil-Yadav15/NextStep"><img src="https://skillicons.dev/icons?i=github" height="28"/></a>
+<a href="https://github.com/Nikhil-Yadav15/NextStep" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/github.svg" height="26" alt="GitHub Repo"/></a>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/python.svg" height="26" alt="Python" title="Python"/>
 &nbsp;
-![Multi-Agent RAG](https://img.shields.io/badge/Multi--Agent_RAG-FF6B35?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![CNN+YOLO](https://img.shields.io/badge/CNN_%2B_YOLO-3FB950?style=flat&logo=opencv&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/nextjs.svg" height="26" alt="Next.js" title="Next.js"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/tensorflow.svg" height="26" alt="TensorFlow" title="TensorFlow"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/opencv.svg" height="26" alt="OpenCV" title="OpenCV"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/qdrant.svg" height="26" alt="Qdrant" title="Qdrant"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/redis.svg" height="26" alt="Redis" title="Redis"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/fastapi.svg" height="26" alt="FastAPI" title="FastAPI"/>
 
 Full career prep suite — not another single-purpose chatbot. Built on a **multi-agent, RAG-based architecture** with **Qdrant** semantic search, so every recommendation is grounded in real context.
 
@@ -140,10 +154,13 @@ Full career prep suite — not another single-purpose chatbot. Built on a **mult
 
 ### [`DevBoard`](https://github.com/Nikhil-Yadav15/ElevendevHub) — Collaborative Developer Hub
 
-<a href="https://github.com/Nikhil-Yadav15/ElevendevHub"><img src="https://skillicons.dev/icons?i=github" height="28"/></a>
+<a href="https://github.com/Nikhil-Yadav15/ElevendevHub" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/github.svg" height="26" alt="GitHub Repo"/></a>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/react.svg" height="26" alt="React" title="React"/>
 &nbsp;
-![Full-Stack](https://img.shields.io/badge/Full--Stack-6EE7B7?style=flat&logo=react&logoColor=black)
-![Real-Time](https://img.shields.io/badge/Real--Time-0e75b6?style=flat&logo=socketdotio&logoColor=white)
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/nodejs.svg" height="26" alt="Node.js" title="Node.js"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/mongodb.svg" height="26" alt="MongoDB" title="MongoDB"/>
 
 A shared workspace for developers — projects, resources, and tooling in one place. Real-time collaboration, role-based auth, and a clean developer-first UI.
 
@@ -209,8 +226,12 @@ A shared workspace for developers — projects, resources, and tooling in one pl
 
 **Open to internships and full-time roles in full-stack, applied AI, and ML systems.**
 
-<a href="https://linkedin.com/in/nikhil-yadav-593a98321"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
-&nbsp;
-<a href="mailto:nikhil@example.com"><img src="https://img.shields.io/badge/-Reach_Out-EA4335?style=flat&logo=gmail&logoColor=white" height="28"/></a>
+<a href="https://linkedin.com/in/nikhil-yadav-593a98321" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" height="32" alt="LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/nikhyadav2605" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" height="32" alt="Instagram"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Nikhil-Yadav15" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" height="32" alt="GitHub"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:nikhil@example.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="28" alt="Email"/></a>
 
 </div>
