@@ -1,7 +1,8 @@
 name: Generate Snake Game
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    # Runs at 00:00 UTC on the 1st and 15th of every month (every 2 weeks)
+    - cron: '0 0 1,15 * *'
   workflow_dispatch: 
 jobs:
   generate:

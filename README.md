@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Nikhil Yadav — Full-Stack + AI Engineer" width="100%">
+  <img src="assets/banner.svg" alt="Nikhil Yadav — Aspiring AI & Full-Stack Engineer" width="100%">
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=6EE7B7&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+AI+Engineer;Computer+Vision+%7C+RAG+%7C+DevSecOps;I+build+systems+that+think." alt="Nikhil Yadav" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=6EE7B7&center=true&vCenter=true&width=650&lines=Aspiring+AI+%26+Full-Stack+Engineer;B.Tech+%40+MNNIT+Allahabad;Computer+Vision+%7C+RAG+%7C+DevSecOps;Building+systems+that+think." alt="Nikhil Yadav" />
 
 <br/>
 
@@ -33,11 +33,11 @@
 
 ## About
 
-I'm a **Full-Stack + AI Engineer** at MNNIT Allahabad who builds systems where the intelligence is load-bearing, not decorative.
+I'm a B.Tech student at **MNNIT Allahabad** and an **aspiring AI & Full-Stack Engineer** building systems where the intelligence is load-bearing, not decorative.
 
-My work spans **multi-agent RAG pipelines, computer vision, DevSecOps automation**, and the full-stack infrastructure holding it all together. I care about systems that behave correctly under real conditions — not just in demos.
+My work spans **multi-agent RAG pipelines, computer vision, DevSecOps automation**, and the full-stack infrastructure connecting them. I care about building reliable systems that perform correctly under real conditions — not just in demos.
 
-**5× first-place** finishes across AI/ML competitions at IIT BHU and MNNIT Allahabad. Most won under tight deadlines against fresh problem statements.
+**5× first-place** finishes across AI/ML competitions at IIT BHU and MNNIT Allahabad, won under tight hackathon deadlines against fresh problem statements.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -170,15 +170,15 @@ A shared workspace for developers — projects, resources, and tooling in one pl
 
 ## 🏆 Achievements
 
-| | Competition | Scale |
-|:--:|---|:--:|
-| 🥇 | **Rank 1** — HackItOut, AI/ML · **IIT BHU** | — |
-| 🥇 | **Rank 1** — Google Developer Hackathon · **MNNIT** | — |
-| 🥇 | **Rank 1** — CodeSprint, AI/ML · **MNNIT** | — |
-| 🥇 | **Rank 1** — Turing's Playground, AI/ML · **MNNIT** | — |
-| 🥇 | **Rank 1** — RoboSoccer · InnoDev · **MNNIT** | — |
-| 🥈 | **Rank 2** — Hacktivate, AI/ML | — |
-| ▪ | **Rank 8** — Hack36 9.0 · **MNNIT** | 300+ teams |
+| Competition | Rank |
+|---|:--:|
+| **HackItOut**, AI/ML · **IIT BHU** | 🥇 **Rank 1** |
+| **Google Developer Hackathon** · **MNNIT** | 🥇 **Rank 1** |
+| **CodeSprint**, AI/ML · **MNNIT** | 🥇 **Rank 1** |
+| **Turing's Playground**, AI/ML · **MNNIT** | 🥇 **Rank 1** |
+| **RoboSoccer** · InnoDev · **MNNIT** | 🥇 **Rank 1** |
+| **Hacktivate**, AI/ML | 🥈 **Rank 2** |
+| **Hack36 9.0** · **MNNIT** (300+ teams) | 🏅 **Rank 8** |
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -205,7 +205,7 @@ A shared workspace for developers — projects, resources, and tooling in one pl
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nikhil-Yadav15&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img src="https://trophy.ryglcloud.net/?username=Nikhil-Yadav15&theme=tokyonight&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 <br/>
 
@@ -224,7 +224,7 @@ A shared workspace for developers — projects, resources, and tooling in one pl
 
 <br/>
 
-**Open to internships and full-time roles in full-stack, applied AI, and ML systems.**
+**Actively seeking AI Engineering & Full-Stack internships and entry-level opportunities.**
 
 <a href="https://linkedin.com/in/nikhil-yadav-593a98321" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" height="32" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;
