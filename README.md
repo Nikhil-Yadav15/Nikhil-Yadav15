@@ -99,7 +99,7 @@ My work spans **multi-agent RAG pipelines, computer vision, DevSecOps automation
 
 ## 🚀 Featured Projects
 
-### [`VulnCraft`](https://github.com/Nikhil-Yadav15/VulnCraft) — No-Code DevSecOps Pipeline Builder
+### [`VulnCraft`](https://github.com/Nikhil-Yadav15/VulnCraft/) — No-Code DevSecOps Pipeline Builder
 
 <a href="https://github.com/Nikhil-Yadav15/VulnCraft" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" height="26" alt="GitHub Repo"/></a>
 &nbsp;&nbsp;
@@ -122,7 +122,7 @@ Security testing gets skipped because wiring it into CI requires a specialist. *
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-### [`EdgeCraft`](https://github.com/Nikhil-Yadav15/ElevendevHub) — Automated Edge PaaS & CI/CD Deployment Platform
+### [`EdgeCraft`](https://github.com/Nikhil-Yadav15/ElevendevHub/) — Automated Edge PaaS & CI/CD Deployment Platform
 
 <a href="https://github.com/Nikhil-Yadav15/ElevendevHub" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" height="26" alt="GitHub Repo"/></a>
 &nbsp;&nbsp;
@@ -150,7 +150,7 @@ Specialized Platform-as-a-Service (PaaS) portal that automates deploying full-st
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-### [`NextStep`](https://github.com/Nikhil-Yadav15/NextStep) — End-to-End AI Career & Multimodal Interview Copilot
+### [`NextStep`](https://github.com/Nikhil-Yadav15/NextStep-Sankalp/) — End-to-End AI Career & Multimodal Interview Copilot
 
 <a href="https://github.com/Nikhil-Yadav15/NextStep" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" height="26" alt="GitHub Repo"/></a>
 &nbsp;&nbsp;
