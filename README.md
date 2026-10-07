@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/nikhyadav2605" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" height="32" alt="Instagram"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Nikhil-Yadav15" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" height="32" alt="GitHub"/></a>
+<a href="https://github.com/Nikhil-Yadav15" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/github.svg" height="32" alt="GitHub"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:nikhil@example.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="28" alt="Email"/></a>
 
@@ -101,7 +101,7 @@ My work spans **multi-agent RAG pipelines, computer vision, DevSecOps automation
 
 ### [`VulnCraft`](https://github.com/Nikhil-Yadav15/VulnCraft) — No-Code DevSecOps Pipeline Builder
 
-<a href="https://github.com/Nikhil-Yadav15/VulnCraft" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/github.svg" height="26" alt="GitHub Repo"/></a>
+<a href="https://github.com/Nikhil-Yadav15/VulnCraft" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" height="26" alt="GitHub Repo"/></a>
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/docker.svg" height="26" alt="Docker" title="Docker"/>
 &nbsp;
@@ -124,7 +124,7 @@ Security testing gets skipped because wiring it into CI requires a specialist. *
 
 ### [`NextStep`](https://github.com/Nikhil-Yadav15/NextStep) — AI Career & Interview Copilot
 
-<a href="https://github.com/Nikhil-Yadav15/NextStep" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/github.svg" height="26" alt="GitHub Repo"/></a>
+<a href="https://github.com/Nikhil-Yadav15/NextStep" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" height="26" alt="GitHub Repo"/></a>
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/python.svg" height="26" alt="Python" title="Python"/>
 &nbsp;
@@ -154,7 +154,7 @@ Full career prep suite — not another single-purpose chatbot. Built on a **mult
 
 ### [`DevBoard`](https://github.com/Nikhil-Yadav15/ElevendevHub) — Collaborative Developer Hub
 
-<a href="https://github.com/Nikhil-Yadav15/ElevendevHub" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/github.svg" height="26" alt="GitHub Repo"/></a>
+<a href="https://github.com/Nikhil-Yadav15/ElevendevHub" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg" height="26" alt="GitHub Repo"/></a>
 &nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/main/icons/dark/react.svg" height="26" alt="React" title="React"/>
 &nbsp;
@@ -230,7 +230,7 @@ A shared workspace for developers — projects, resources, and tooling in one pl
 &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/nikhyadav2605" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" height="32" alt="Instagram"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Nikhil-Yadav15" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg" height="32" alt="GitHub"/></a>
+<a href="https://github.com/Nikhil-Yadav15" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/github.svg" height="32" alt="GitHub"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:nikhil@example.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="28" alt="Email"/></a>
 
