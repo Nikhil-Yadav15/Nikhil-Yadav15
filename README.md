@@ -243,6 +243,6 @@ End-to-end career intelligence platform integrating skill gap analysis, multimod
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Nikhil-Yadav15" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/github.svg" height="32" alt="GitHub"/></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:nikhil@example.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="28" alt="Email"/></a>
+<a href="mailto:nikhil.2202yadav@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="28" alt="Email"/></a>
 
 </div>
